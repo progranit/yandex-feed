@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-05-07 08:58">
+	<shop>
+		<name>РЕГРАН (Режевской гранит)</name>
+		<company>ООО &quot;Режевской карьер&quot;</company>
+		<url>https://regran.org</url>
+		<currencies>
+			<currency id="RUB" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="3645479">Гранит</category>
+			<category id="3645480">Кварцит</category>
+			<category id="3645481" parentId="3645479">Гранитный плитняк</category>
+			<category id="3645482" parentId="3645479">Брусчатка гранитная</category>
+			<category id="3645483" parentId="3645480">Плитняк златолит</category>
+			<category id="3645484" parentId="3645480">Плитка облицовочная кварцит</category>
+			<category id="3645485" parentId="3645480">Брусчатка из кварцита</category>
+			<category id="3645486" parentId="3645480">Плиты мощения кварцит</category>
+			<category id="3645488" parentId="3645479">Плиты мощения гранитные</category>
+			<category id="3645489" parentId="3645479">Плитка облицовочная гранитная</category>
+			<category id="3645490" parentId="3645479">Ландшафтные плиты</category>
+			<category id="3645491">Ландшафтный камень</category>
+		</categories>
+		<offers>
+			<offer id="3645552" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/zlatolit-galtovannyj-melkoformat</url>
+				<price>15.00</price>
+				<oldprice>20.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/92/46/63/9551c50d5f795fcd3cead85959220fa43d/plitnyak_zlatolit_galtovanniy_melkoformat.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Златолит Состаренный мелкоформатный</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитняк златолит</model>
+				<description>Он – редкость для настоящих ценителей. Им оформляют поверхности, создавая атмосферу средневековых замков. С ним получаются величественные сухие ручьи. Наполненные габионы, благодаря уникальным свойствам златолита, каждый день предстают перед вами в новом виде. Как истинный кварцит, он искрится на солнце, при большой влажности цвет становится еще насыщеннее, благодаря чему ваш ландшафт каждый день играет новыми красками. Универсальный камень, который подойдет для любых вариантов использования и любых видов работ.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645514" available="true">
+				<url>https://regran.org/granit/bruschatka-granitnaya/bruschatka-granitnaya-staraya-praga</url>
+				<price>2400.00</price>
+				<oldprice>2960.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645482</categoryId>
+				<picture>https://i.1.creatium.io/46/93/1e/c0be1dfe9b5b7dd067d0c693e4c9ce5bb2/bruschatka_granitnaya_staraya_praga_1.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Брусчатка гранитная колотая</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Брусчатка гранитная колотая</model>
+				<description>Все грани имеют естественную природную структуру, геометрия бруска близка к кубу. Классика, которая используется на большинстве площадей и улиц как российских, так и европейских городов и провинций. Идеально подходит для коммерческого использования. Именно такой брусчаткой столетия назад мостились улочки европейских городов. Внешний вид отсылает в средневековье, к XVII-XVIII векам нашей эры. Изготовлена из природного камня, возраст которого не ме- нее 1–2 млн лет.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645515" available="true">
+				<url>https://regran.org/kvarcit-zlatolit/bruschatka-iz-kvarcita/bruschatka-iz-kvarcita-veneciya</url>
+				<price>2625.00</price>
+				<oldprice>3420.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645485</categoryId>
+				<picture>https://i.1.creatium.io/b0/33/bb/bd92c1b634c198d7ccebece5042a8d1e95/bruschatka_iz_kvarcita_veneciya_1.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Брусчатка из кварцита Венеция</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Брусчатка из кварцита галтованная</model>
+				<description>Брусчатка с ровными гранями и скругленными краями из натурального камня кварцита, широко применяемого в строительстве, создании скульптур и декоративных украшений. Особые его образцы также применяются в ювелирной промышленности как полудрагоценный поделочный камень первого порядка. Не имеет аналогов на российском рынке. В результате специальной обработки и состаривания приобретает вид и форму тесаного камня, произведенного несколько веков назад. Имеет богатую и уникальную цветовую гамму мультиколор: цвет преимущественно искристо-серый с жёлтыми, коричневыми и зелёными оттенками. Прекрасно смотрится как с обработкой, так и без.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645548" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/morskaya-galka-ploskaya</url>
+				<price>35.00</price>
+				<oldprice>45.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/7e/27/41/ccae314e958f3654b60dd0a7ea9baf99eb/morskaya_galka_ploskaya.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Морская галька Плоская</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Крошка декоративная</model>
+				<description>Универсальное решение, позволяющее придать вашей придомовой территории красивый и оригинальный вид. С помощью плоской гальки садовые тропинки, цветники и клумбы становятся настоящим произведением искусства, превращаясь в неординарные узоры. Такое покрытие надежно, долговечно и вносит неповторимый колорит в дизайн сада. Галька внесет природную гармонию облику беседки, террасы, дополнительных построек или зоны отдыха. Также декорируют галькой садовую мебель, конструкции для приготовления пищи и ступеньки.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645511" available="true">
+				<url>https://regran.org/granit/bruschatka-granitnaya/bruschatka-granitnaya-glavnaya-ploshchad-100-L-mm</url>
+				<price>3930.00</price>
+				<oldprice>4510.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645482</categoryId>
+				<picture>https://i.1.creatium.io/54/98/ba/03e3b8c0dfea1b30b5de176de83f64dafa/bruschatka_granitnaya_glavnaya_ploshad_l_2.jpeg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Брусчатка гранитная пиленая 100L</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Брусчатка пиленая</model>
+				<description>Завораживающее сочетание разноразмерной брусчатки никого не оставит равнодушным. Уложенные бруски с ровными гранями по периметру и природными верхом создают атмосферу современности и настоящей солидности. Она демонстрирует естественную структуру камня, природную шероховатость, а современная форма скажет о том, что вы идете в ногу со временем. Благодаря ровным граням по периметру отсутствуют стыки между брусками и получается практически ровная поверхность, которая обладает антискользящими свойствами. Благодаря бесшовной укладке снижается вероятность любых зацепов за грани брусков и застревания любых предметов, например каблуков. Обладает повышенным комфортом при проезде детских колясок и любого вида транспорта. Изготовлена из природного камня, возраст которого не менее 1–2 млн лет.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645539" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/zlatolit-kroshka</url>
+				<price>35.00</price>
+				<oldprice>45.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/cb/38/1e/e07b28cf87b0f4a5bcf42173e06277de2a/kroshka_zlatolit.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Златолит Крошка декоративная</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Крошка декоративная</model>
+				<description>Ее искристость способна разбудить истинную красоту любого дачного участка: златолит меняет оттенок в зависимости от освещения и искрится в солнечных лучах. Благодаря этому вы можете каждый день взглянуть на свой участок по-новому. Небольшая фракция позволяет оформить крошкой из златолита любое место, начиная от клумбы, заканчивая дорожкой к беседке. При этом она не заберет все внимание на себя, а только дополнит общую красоту участка, придавая ему роскошный вид, делая его светлее и богаче.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645532" available="true">
+				<url>https://regran.org/kvarcit-zlatolit/plitnyak-zlatolit/zlatolit-prazhskij-grad</url>
+				<price>575.00</price>
+				<oldprice>690.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645483</categoryId>
+				<picture>https://i.1.creatium.io/32/58/fc/f4eddd4777444b3f0cfa2c2e003836e206/zlatolit_prajskiy_grad_1.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Плитняк Златолит</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитняк златолит</model>
+				<description>Плитчатый кварцит для мощения и облицовки – натуральный камень, с которым любой участок станет неповторимым. Цвет – богатый и глубокий серый, золотистый, фисташковый и зеленоватый – один из самых красивых камней, используемых в строительстве. Благодаря особому химическому составу искрится при солнечном свете или искусственном освещении – облицованные и вымощенные поверхности каждый день играют новыми красками и смотрятся по-новому. В том числе и потому, что при воздействии влаги или специальных пропиток этот камень приобретает глубокий насыщенный цвет. Имеет все необходимые испытания по эксплуатационным характеристикам и безопасности. Может использоваться в местах с повышенными требованиями к безопасности. Встречаются плиты с отпечатками многовековых растений и необыкновенных артефактов возрастом в миллионы лет.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645500" available="true">
+				<url>https://regran.org/kvarcit-zlatolit/plitnyak-zlatolit/zlatolit-premium-multikolor</url>
+				<price>715.00</price>
+				<oldprice>910.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645483</categoryId>
+				<picture>https://i.1.creatium.io/b1/c9/09/8da914c08ca4f0c10c7ffe8342fd17cdb3/zlatolit_premium_multikolor_1.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Златолит Премиум мультиколор</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитняк златолит</model>
+				<description>Плиты произвольной формы с округлыми краями из натурального кварцита, широко применяемого в строительстве, создании скульптур и декоративных украшений. Обладают богатой и благородной цветовой гаммой – цвет преимущественно искристо-серый с жёлтыми, коричневыми и зелёными оттенками. Средний размер плиты – со стандартный альбомный лист. Созданы с учетом современных модных тенденций – плиты, похожие на старинные, кажется, могут рассказать о самых интересных интригах прошлого, свидетелями которых они вполне могли быть. Искрятся при изменении углов солнечных лучей или искусственного света. Мощение или облицовка, выполненные с помощью Regran Premium Milticolor, выглядят в разы привлекательнее и аккуратнее, чем любым другим плитчатым камнем, создавая атмосферу ощущение античности и старины.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645504" available="true">
+				<url>https://regran.org/kvarcit-zlatolit/bruschatka-iz-kvarcita/bruschatka-rigel-ehksklyuziv-80-350-mm</url>
+				<price>2730.00</price>
+				<oldprice>3220.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645485</categoryId>
+				<picture>https://i.1.creatium.io/b1/f0/9f/d414dbef6bd0789e2e0fefa195d33e95fa/bruschatka_rigel_eksklyuziv_80_350.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Брусчатка Ригель эксклюзив</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Брусчатка пиленая из кварцита</model>
+				<description>Брусчатка с ровными гранями по периметру, с природным верхом и низом выполнена в духе современных тенденций – имеет удлиненную ригельную форму с соотношением сторон 4:1. Благодаря этому вы можете создавать завораживающие своей простотой и геометрической правильностью рисунки, а ваши дорожки и придомовая территория – станут солидными и ультрасовременными. Не стоит забывать о натуральности – настоящий кварцит раскроет перед вами весь свой потенциал: природную шероховатость, сочные благородные цвета – искристо-серые с жёлтыми, коричневыми, синеватыми и зелёными оттенками. Цвета, фактуры, формы, натуральность – это и подчеркнет эксклюзивный дизайн, выполненный в любом стиле, начиная от high-tech, заканчивая стилями, создающими эффект благородной старины.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645538" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/bulyzhnik-granitnyj-galtovannyj</url>
+				<price>6.00</price>
+				<oldprice>10.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/f0/70/b8/1d9d2b104d97aa055ad7a0b0112be70514/bulijnik_granitniy_galtovanniy.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Булыжник гранитный Состаренный</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Булыжник гранитный</model>
+				<description>Состаренный гранит с гладкой поверхностью станет прекрасным украшением любого участка. Способы его применения ограничиваются только вашей фантазией – кто-то обустраивает дорожки в саду, кто-то принаряжает одинокое деревце или формирует оригинальную клумбу. А некоторые специально ищут именно его для оригинальной облицовки стен или создания уникального мощения. Отлично выглядит и прекрасно сочетается как с натуральными, так и искусственными материалами – деревом, керамогранитом, плиткой, природными плитняком и брусчаткой. Очень красиво смотрится при декорировании рокария или альпийских горок.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645492" available="true">
+				<url>https://regran.org/granit/granitnyj-plitnyak/granitnyj-plitnyak-insbruk</url>
+				<price>750.00</price>
+				<oldprice>880.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645481</categoryId>
+				<picture>https://i.1.creatium.io/aa/95/d2/571b10a3889021f73466125bb5670af5ba/granitniy_plitnyak_insbruk_12.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Гранитный плитняк 20-40 мм</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитняк гранитный</model>
+				<description>Плоские гранитные плиты произвольной формы возрастом не менее 1–2 млн лет, в среднем соответствующие размерам обычного альбомного листа. Обладают уникальным нежным серо-бежевым цветом с желтоватым оттенком, неповторимым узором из тонких переплетающихся прожилок и природной поверхностью, которая не даст поскользнуться в мокрую погоду. Традиционно используется для мощения дорожек, парковочных площадок, общественных пространств, облицовки зданий. Но сегодня применение плитняка стало гораздо шире: сочетая плиты из натурального камня с другими материалами, выкладывают орнаменты, а на поверхностях с большой площадью даже сюжеты. Экологичен и идеально сочетается с растениями и другими материалами, используемыми в ландшафтном дизайне.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645494" available="true">
+				<url>https://regran.org/granit/granitnyj-plitnyak/granitnyj-plitnyak-premialnyj-sad</url>
+				<price>650.00</price>
+				<oldprice>810.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645481</categoryId>
+				<picture>https://i.1.creatium.io/9b/43/54/a93f62f97ee02bb3d1ccb411d84827ba47/granitniy_plitnyak_premialniy_sad_16.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Гранитный плитняк 20-40 мм</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитняк гранитный</model>
+				<description>Гранитные плиты произвольной формы, в среднем соответствующие размерам обычного альбомного листа, специально отобранные по толщине и ровности поверхности. Большинство провинциальных участков и пространств как в западной, так и восточной Европе обустроено именно им. Характерная фактура и приятный серо-бежевый цвет запомнится сразу и будет беспроигрышно сочетаться с любыми другими материалами и зелеными насаждениями, придавая оформленному им пространству ощущение близости к природе и натуральности. Благодаря строгим критериям отбора его проще укладывать, поскольку практически отсутствуют перепады по высоте, за ним просто ухаживать. Производится из природного камня возрастом не менее 1–2 млн лет.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645499" available="true">
+				<url>https://regran.org/kvarcit-zlatolit/plitnyak-zlatolit/zlatolit-serebristo-fistashkovyj</url>
+				<price>565.00</price>
+				<oldprice>750.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645483</categoryId>
+				<picture>https://i.1.creatium.io/1d/39/f9/944427b2ec7050853fcc33d83ce0bd9faf/zlatolit_serebristo_fistashkoviy_3.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Златолит Серебристо-фисташковый</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитняк златолит</model>
+				<description>Камень с фактурной и рельефной поверхностью и потрясающими искристыми переливами. Классический, серебристый и благородный оттенок, который будет изысканно смотреться при мощении и отделке во дворе или в доме. Встречаются плиты с отпечатками древних растений, возрастом более 2 млн. лет. Оттенки классические, не режут глаз и могут сочетаться с более контрастными элементами фасада. Технические характеристики - отличные. Он крепкий, выдерживает большие весовые нагрузки. Устойчив перед морозами, не лопается на большом холоде. Не стирается даже при долгосрочной эксплуатации.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645541" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/kremnij-kroshka</url>
+				<price>35.00</price>
+				<oldprice>50.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/c5/22/06/4bd3379a2436f566726e7e841bc92b1eb8/kroshka_kremniy.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Кремний Крошка декоративная</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Крошка декоративная</model>
+				<description>Для тех, кто предпочитает спокойные, но интересные оттенки и пристально следит за своим здоровьем. Ведь кремний – мощный абсорбент, способный выводить из организма сотни видов токсичных вещества и с 70-х годов используется в качестве природного очистителя воды. При этом это превосходный ландшафтный камень: цветовая палитра довольно сдержана – включает в себя графитовые, угольные, темно-коричневые, темно-золотистые цвета. Благодаря им кремний позволяет оттенять чересчур броские клумбы с яркими соцветиями. Популярен камень и при обрамлении пешеходных дорожек, площадок для отдыха, аллей и других объемных элементов ландшафта.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645498" available="true">
+				<url>https://regran.org/kvarcit-zlatolit/plitnyak-zlatolit/zlatolit-staryj-zamok</url>
+				<price>565.00</price>
+				<oldprice>650.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645483</categoryId>
+				<picture>https://i.1.creatium.io/58/8c/49/713cc44870b7bef7a1b3445900a028cff4/zlatolit_stariy_zamok_1.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Златолит Старый замок</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитняк златолит</model>
+				<description>Плитчатый кварцит для мощения и облицовки – натуральный камень, широко применяемый в строительстве, создании скульптур и декоративных украшений. Размер плитняка в среднем соответствует альбомному листу. В современном архитектурном дизайне кварцит считают элитным: это один из самых красивых камней, используемых в строительстве – цвет очень сочный и варьируется от светло-серого до желтого, темно-зеленого, может менять оттенок в зависимости от освещения. Встречаются плиты с отпечатками многовековых растений и необыкновенных артефактов возрастом в миллионы лет.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645535" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/kvarc-galtovannyj-bannyj-kamen</url>
+				<price>60.00</price>
+				<oldprice>70.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/1b/d8/f6/d649a8c2e80bb36163992a22d0e0cbe6af/banniy_kamen_kvarc_galtovanniy.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Кварц галтованный Банный камень</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Крошка декоративная</model>
+				<description>Состаренный кварц обладает уникальными свойствами: он теплоемок, надолго сохраняет тепло в помещении. Жаростойкий, способен выдержать высокую температуру, не меняя своих свойств. Будучи натуральным – экологичен и имеет многочисленные целебные свойства. Приятная для глаз гладкая поверхность, улучшает визуальную привлекательность оформленных им пространств. На наш взгляд, пожалуй, это лучший выбор как для каменки в бане, так и на участке – в качестве дополнения ландшафта вашей дачи.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645536" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/kvarc-kolotyj-bannyj-kamen</url>
+				<price>40.00</price>
+				<oldprice>50.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/5e/3c/60/6fd44a97e7e007e806ab880a9c0db5a0df/kvarc_kolotiy.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Кварц колотый Банный камень</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Крошка декоративная</model>
+				<description>Колотый кварц отличается отсутствием сглаженных углов и считается одним из лучших камней для бани. Его белоснежный цвет, нетронутые шлифовкой природные грани, переливающиеся на солнце, качественно меняют интерьер или экстерьер любого объекта. Способен быстро впитывать тепло и длительное время его излучать: его тепловые и целебные свойства сделают проведенное в бане время качественнее и полезнее. Антисептик, не подвержен образованию плесени. Пользуется огромной популярностью при выборе декора для ландшафтов и клумб.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645550" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/mramor-galtovannyj</url>
+				<price>20.00</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/67/5d/89/618baa0e230275b9bc484517076af2c839/mramor_galtovanniy.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Мрамор Состаренный</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Крошка декоративная</model>
+				<description>Состаренный белый мрамор по праву называют одним из самых красивых камней. Он придает любому интерьеру или ландшафту благородство, изящество, воздушность и легкость. Благодаря процедуре состаривания, благородная порода приобретает окатанную форму, становится гладкой и блестящей. Экологически чистый, обладает высокой прочностью и долговечностью. Мрамор почти не поглощает влагу, его можно помещать рядом с водой и плесень никогда на нем не появится. Выбор состаренного мрамора будет выбором человека, имеющего вкус и чувство стиля. Украсит любой придомовой участок, на долгие века.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645554" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/miotis-krymskij-korall-krymskij</url>
+				<price>35.00</price>
+				<oldprice>50.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/a3/d1/65/9eb28e83c1fb7af86714caf2a1f9a0b523/miotis_krimskiy.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Миотис крымский Коралл крымский</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Крошка декоративная</model>
+				<description>Окаменелый коралл похож на ракушечник, но имеет более глубокую пористую структуру. Один из самых экологически чистых материалов, наиболее красивые экземпляры которого попадают к ювелирам и декораторам. Прекрасная стойкость к коррозии и гниению. Пористая структура превращает его в совершенный природный фильтр, превращая его в идеальный камень для установки в водоемы и большие аквариумы. Любой воплощенный с помощью Миотиса пейзаж выглядит эстетично, оригинально и статусно. Благодаря нестандартному внешнему виду Миотис придаст вашему дизайну изюминку и необычность.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645546" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/morskaya-galka-valunchik-raznocvetnyj</url>
+				<price>35.00</price>
+				<oldprice>40.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/c9/e2/88/856950a8fe815103aff184d942ffa6fefb/morskaya_galka_valunchik_raznocvetniy.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Морская галька Валунчик разноцветный</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Крошка декоративная</model>
+				<description>Добиться изменений можно и без переезда на морской берег – просто добавьте на ваш дачный участок разноцветный валунчик. Прочность и приятное разнообразие цветов позволяет использовать его для широкого спектра работ – как для дизайна, так и для строительства. Из валунчика получаются красивые альпинарии и рокарии. Отличается прочностью, устойчив к погодным условиям: дожди, солнце и морозы не испортят его естественный цвет и фактуру. Идеален при возведении водоемов – как при оформлении его берегов, так и обустройстве оснований.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645545" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/morskaya-galka-kaspijskaya-mozaika</url>
+				<price>35.00</price>
+				<oldprice>40.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/03/0a/38/685f65c162ed9ef53e5e04d9e8fccadb7d/kaspiyskaya_morskaya_galka_mozayka_2.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Морская галька Каспийская мозаика</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Крошка декоративная</model>
+				<description>Причудливые формы этой каспийской гальки способны вписаться в любой ландшафт. Ее разнообразные цветовые оттенки, комбинация различных форм и размеров добавит вашему участку новых красок, превращая его в живое и привлекательное место, искореняя серость вокруг. Благодаря округлым формам полностью безопасна для детей, которые могут совершенно не бояться порезов. Имеет отличную прочность и приятную цену. Универсальный камень, подходит для различных вариантов использования.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645549" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/morskaya-galka-chernomorskaya</url>
+				<price>35.00</price>
+				<oldprice>40.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/ab/25/e2/645358d048210655b367aca064f6270510/chernomorskaya_morskaya_galka.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Морская галька Черноморская</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Крошка декоративная</model>
+				<description>Галька округлой формы, знакомая большинству из нас с детства. Цветовая палитра варьируется от белого до бежевого и светло-серого оттенков. Дополнит любой участок, послужит прекрасным наполнением габионов и гармонично впишется в любой ландшафт. Наличие разнообразных размеров дает возможность подобрать ее практически для любых нужд как внутри, так и снаружи помещений. Стойкая, прочная и долговечная, как настоящий природный камень.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645509" available="true">
+				<url>https://regran.org/kvarcit-zlatolit/plitka-oblicovochnaya-kvarcit/plitka-oblicovochnaya-barselona-3d</url>
+				<price>950.00</price>
+				<oldprice>1240.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645484</categoryId>
+				<picture>https://i.1.creatium.io/c5/8a/a7/140ad910fd27785a2a3f0673a15bd390e3/plitka_oblicovochnaya_barselona_3d_1.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Плитка облицовочная Барселона 3D</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитка облицовочная</model>
+				<description>Обработанные плитки природного камня различной длины и шириной 3-5 см, с сохраненным на одной из сторон натурального природного рельефа. Выполнены из кварцита, широко применяемого в строительстве, создании скульптур и декоративных украшений. Камень подходит как для наружной, так и декоративной внутренней отделки: сплошной или акцентной облицовки стен, каминов, цоколя, фундамента, углов здания. Подобрать оптимальное решение можно практически для любого стиля – от кантри до лофта и минимализма. Имеет удобную форму для монтажа, образует поверхность с неповторимой скалистой фактурой, передавая все многообразие и насыщенность природного камня. Камень хорошо сочетается с деревом, металлом различных оттенков, текстилем и стеклом. Это одно из самых популярных решений при строительстве дач и загородных домов, ресторанов и клубов.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645501" available="true">
+				<url>https://regran.org/kvarcit-zlatolit/plitka-oblicovochnaya-kvarcit/plitka-oblicovochnaya-multikolor-premium-3d</url>
+				<price>2480.00</price>
+				<oldprice>2960.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645484</categoryId>
+				<picture>https://i.1.creatium.io/55/0d/74/fa651af2e1f33669d9bba8e33030ff454f/plitka_oblicovochnaya_multikolor_premium_3d_1.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Плитка облицовочная Мультиколор премиум 3D</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитка облицовочная из кварцита</model>
+				<description>Плитка с ровными гранями и природной поверхностью из натурального камня кварцита, широко применяемого в строительстве, создании скульптур и декоративных украшений. Дополнительная обработка может изменить плитку до неузнаваемости, создав ощущение абсолютно новой и уникальной поверхности с роскошным насыщенным цветом и невероятной фактурой.Идеально подойдет для внешней отделки, а также отделки жилых помещений, медицинских учреждений или детских садов, т. к. обладает антибактериальными свойствами. Обладает трехмерным эффектом, кристаллической структурой, богатой и благородной цветовой гаммой – цвет преимущественно искристо-серый с жёлтыми, коричневыми и зелёными оттенками.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645529" available="true">
+				<url>https://regran.org/granit/plitka-oblicovochnaya-granitnaya/plitka-oblicovochnaya-provans-ultra-red</url>
+				<price>1990.00</price>
+				<oldprice>2290.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645489</categoryId>
+				<picture>https://i.1.creatium.io/3d/2a/a1/f7a70aacd5ae04742666efa8c8999847d9/plitka_oblicovochnaya_provans_ultra_red_1.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Плитка облицовочная Прованс ультра ред</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитка облицовочная гранитная</model>
+				<description>Один из самых редких на строительном рынке облицовочных материалов. Знаменитый природный гранит Ряба премиум возрастом 1–2 млн лет подвергнут обжигу по авторской технологии. Это в корне меняет его истинный кремово серо-песочный цвет: он становится нежно-розовым, с переходами вплоть до алого красного. Можно придать еще большую насыщенность – эффект достигается нанесением специальных пропиток. Сам материал среднеформатный, с трехмерным эффектом. Имеет произвольные длину, высоту и природную фактуру, которую не сможет сымитировать ни один другой способ отделки. Позволяет создавать уникальные комбинации и вариации облицовки фасадов, второго которого вы не найдете в радиусе сотен километров. Идеален для воплощения уникальных в своем роде, авторских задумок, облицовки фасадов, заборов, каминов, облицовки элементов интерьера.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645520" available="true">
+				<url>https://regran.org/granit/plity-moshcheniya-granitnye/plity-moshcheniya-myunhen-king-sajz</url>
+				<price>7060.00</price>
+				<oldprice>8180.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645488</categoryId>
+				<picture>https://i.1.creatium.io/85/a7/40/5f9bbb8e4d8564cba92be84ef71beca0ff/pliti_mosheniya_myunhen_king_sayz_2.jpeg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Плиты мощения большого размера</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плиты мощения гранитные</model>
+				<description>Для тех, кто не такой как все. Для тех, кто хочет большего. Для настоящих ценителей. Для выдающихся дизайнеров. Крупноформатные гранитные плиты мощения с четырьмя ровными гранями и природными шероховатыми лицевыми сторонами. С ними любое пространство заиграет совершенно иными красками - как частное, так и коммерческое или общественное. А в сочетаниии с другими элементами, например, природным плитчатым камнем или брусчаткой - создаст неповторимые и уникальные рисунки. Имеют приятный песочно-бежевый цвет, который оптимально вписывается в любые дизайнерские концепции. Изготовлены из природного камня, возраст которого не менее 1–2 млн лет.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645531" available="true">
+				<url>https://regran.org/granit/landshaftnye-plity/stupeni-granitnye</url>
+				<price>1250.00</price>
+				<oldprice>2030.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645490</categoryId>
+				<picture>https://i.1.creatium.io/af/a3/96/5498281f033eb83c31acecb76a150f7378/stupeni_granitnie_grand_imperial_1.jpeg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Ступени гранитные из цельного гранита</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Ступени гранитные</model>
+				<description>Ступени из цельных гранитных плит из знаменитого гранита Ряба премиум. Подходят для создания входных групп частных домов, общественных и коммерческих пространств, для ландшафтов, на которых требуется выполнить протяженные и внушительные подъемы. Прекрасно сочетаются с другими изделиями и элементами из гранита Ряба премиум – природным плитчатым камнем, брусчаткой, плитами мощения, с другими материалами и другими фактурами – деревом, керамикой, композитными материалами. Имеют узнаваемый, приятный песочно-бежевый цвет и зерно, которые оптимально впишутся в любые дизайнерские концепции. Шероховатая поверхность обеспечивает отсутствие скольжения в любых погодных условиях и отсутствие необходимости в дополнительной обработке. Изготовлены из природного камня, возрастом не менее 1–2 млн лет.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645537" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/talkohlorit-bannyj-kamen</url>
+				<price>35.00</price>
+				<oldprice>40.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/3b/90/e8/bfb68be14003cfbb9a48942cab9abf3cd8/talkohlorit.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Талькохлорит Банный камень</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Крошка декоративная</model>
+				<description>Если вы хотите качественно улучшить облик участка или создать на нем оригинальную композицию – талькохлорит подойдет для этого на все сто. Приятный темный цвет с рыжеватыми вкраплениями делает его незаменимым помощником при воплощении дизайнерских задумок: визуальном разделении пространств, организации сухих ручьев, прудов и природных бассейнов. Даже спустя десятилетия выглядит презентабельно. Прекрасно очищается. Отличный выбор для бани или дачного участка и отличное дополнение к любым стилям ландшафтного дизайна.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645503" available="true">
+				<url>https://regran.org/kvarcit-zlatolit/plitka-oblicovochnaya-kvarcit/plitka-oblicovochnaya-rigel-multikolor-80-350-mm</url>
+				<price>2730.00</price>
+				<oldprice>3530.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645484</categoryId>
+				<picture>https://i.1.creatium.io/44/ac/19/7046562fc2b535096693a06e2b843f4760/plitka_oblicovochnaya_rigel_multikolor_80_350.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Плитка облицовочная Ригель мультиколор</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитка облицовочная из кварцита</model>
+				<description>Плитка с ровными гранями и природной поверхностью из натурального камня кварцита, широко применяемого в строительстве, создании скульптур и декоративных украшений. Выполнена в соответствии с современными тенденциями и трендами в облицовке - имеет удлиненную, ригельную форму с соотношением сторон 4:1 и более. Правильный рисунок, геометрическая простота и богатая цветовая палитра сделают любую поверхность поистине уникальной и наполнят ее роскошным насыщенным цветом и невероятной фактурой. Идеально подойдет для внешней отделки, а также отделки жилых помещений, медицинских учреждений или детских садов, т. к. обладает антибактериальными свойствами. Обладает трехмерным эффектом, кристаллической структурой, богатой и благородной цветовой гаммой – цвет преимущественно искристо-серый с жёлтыми, коричневыми и зелёными оттенками.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645522" available="true">
+				<url>https://regran.org/granit/plitka-oblicovochnaya-granitnaya/plitka-oblicovochnaya-premium-selekted-3d</url>
+				<price>3250.00</price>
+				<oldprice>3990.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645489</categoryId>
+				<picture>https://i.1.creatium.io/09/2f/4f/d4a7a1ea343fb5e7c5b528878fe6eb8b1a/plitka_oblicovochnaya_premium_3d_3.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Плитка облицовочная гранитная "Скала"</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитка облицовочная гранитная</model>
+				<description>Плитка с пятью ровными гранями и лицевой объемной гранью со сколами (скошенными краями), имитирующая скалу. Отобрана по размерам и толщине, что дает возможность создавать геометрически правильные рисунки. Каждая плитка – уникальное изделие ручной работы. Знакома большинству из нас по древнейшим образцам искусства и зодчества. Изготовлена из природного камня возрастом не менее 1–2 млн лет. Может применяться как фрагментарно, так и для полной обшивки стен и поверхностей, создавая настоящее художественное произведение. Вносит индивидуальность в облицовку цокольных и первых этажей зданий, задает настроение при облицовке фундаментов, заборов, фасадов, создает атмосферу уюта, покоя и тепла при облицовке каминов, очагов и лестниц.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645519" available="true">
+				<url>https://regran.org/granit/plity-moshcheniya-granitnye/plity-moshcheniya-myunhen-granitnye</url>
+				<price>7500.00</price>
+				<oldprice>8030.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645488</categoryId>
+				<picture>https://i.1.creatium.io/43/8d/2c/e98c6bd052d458aa5d712673b7377380fc/pliti_mosheniya_myunhen_4.jpeg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Плиты мощения Мюнхен</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плиты мощения гранитные</model>
+				<description>Гранитные плиты мощения с четырьмя ровными гранями и природными шероховатыми лицевыми сторонами. Используются для обустройства территорий частного, коммерческого и общественного использования, часто в сочетании с другими элементами, например, природным плитчатым камнем или брусчаткой. Имеют приятный песочно-бежевый цвет, который оптимально вписывается в любые дизайнерские концепции. Шероховатая поверхность обеспечивает отсутствие скольжения в любых погодных условиях и отсутствие необходимости в дополнительной обработке. Изготовлены из природного камня, возраст которого не менее 1–2 млн лет.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645517" available="true">
+				<url>https://regran.org/kvarcit-zlatolit/bruschatka-iz-kvarcita/bruschatka-iz-kvarcita-ehksklyuziv-multikolor</url>
+				<price>2625.00</price>
+				<oldprice>3420.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645485</categoryId>
+				<picture>https://i.1.creatium.io/1a/c4/09/fbd7e6d34de92b140890cca6635405e209/bruschatka_iz_kvarcita_eksklyuziv_multikolor_1.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Брусчатка из кварцита пиленая мультиколор</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Брусчатка из кварцита пиленая</model>
+				<description>Брусчатка с ровными гранями по периметру, верх и низ природный. Выполнена из натурального камня кварцита, широко применяемого в строительстве, создании скульптур и декоративных украшений. Шероховатость природных поверхностей раскрывает настоящий цвет камня и обеспечивает эффект антискольжения. Ровные грани обеспечивают идеальное прилегание брусков друг к другу, что исключает попадание любых посторонних предметов между швов. Цветовая гамма – мультиколор, сочные благородные цвета искристо-серые с жёлтыми, коричневыми и зелёными оттенками, подчеркивающие эксклюзивный дизайн любого стиля, начиная с high-tech, заканчивая стилями, создающими эффект благородной старины.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645505" available="true">
+				<url>https://regran.org/kvarcit-zlatolit/bruschatka-iz-kvarcita/bruschatka-rigel-ehksklyuziv-80-250-mm</url>
+				<price>3530.00</price>
+				<oldprice>3990.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645485</categoryId>
+				<picture>https://i.1.creatium.io/35/20/31/2be18f32c51146c229df15f1996a984e0d/bruschatka_rigel_eksklyuziv_80_250.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Брусчатка Ригель эксклюзив</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Брусчатка из кварцита пиленая ригель</model>
+				<description>Брусчатка с ровными гранями по периметру, с природным верхом и низом выполнена в духе современных тенденций – имеет удлиненную ригельную форму с соотношением сторон 4:1. Благодаря этому вы можете создавать завораживающие своей простотой и геометрической правильностью рисунки, а ваши дорожки и придомовая территория – станут солидными и ультрасовременными. Не стоит забывать о натуральности – настоящий кварцит раскроет перед вами весь свой потенциал: природную шероховатость, сочные благородные цвета – искристо-серые с жёлтыми, коричневыми, синеватыми и зелёными оттенками. Цвета, фактуры, формы, натуральность – это и подчеркнет эксклюзивный дизайн, выполненный в любом стиле, начиная от high-tech, заканчивая стилями, создающими эффект благородной старины.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645528" available="true">
+				<url>https://regran.org/kvarcit-zlatolit/plitnyak-zlatolit/zlatolit-pechat-tysyacheletij</url>
+				<price>2090.00</price>
+				<oldprice>2410.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645483</categoryId>
+				<picture>https://i.1.creatium.io/f7/e7/71/0bceff935d136d009ff57ed5f3bf034deb/zlatolit_pechat_tisyacheletiy_1.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Златолит Печать тысячелетий</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитняк златолит</model>
+				<description>Пожалуй, самый уникальный плитчатый камень в России: кварцит с запечатленными самой природой закатами и рассветами, пейзажами и натюрмортами, датируемыми тысячами лет. Природа, как будто, сама включила вспышку и сделала снимок, который остался на каменных плитах, пролежавших в скале до сего дня. Встречаются как законченные пейзажи, так и отпечатки окаменелых растений, рассветов. Иными словами, это действительно тот случай, когда камень становится произведением искусства. Добывается из собственного месторождения, отсутствует какая-либо ручная обработка: дорисовка и постороннее вмешательство. Может быть использован для мощения и облицовки, когда требуется создать гарантированно уникальные поверхности, которые не повторятся ни на одном другом участке мира. Помимо основных преимуществ, обладает богатыми и сочными цветами, варьирующимися от глубокого фисташкового синего, светло-серого до темно-зеленого и насыщенного желтого. Меняет оттенок в зависимости от освещения и искрится в солнечных лучах.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645540" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/zmeevik-kroshka</url>
+				<price>35.00</price>
+				<oldprice>40.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/ef/3b/a4/f7874e7e20495fa40e99e21f42fcba077c/kroshka_zmeevik_1.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Змеевик Крошка декоративная</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Крошка декоративная</model>
+				<description>Имеет характерный зеленый, насыщенный оттенок, который по цвету очень похож на цвет малахита. Как известно, зеленый – цвет спокойствия и умиротворения. Он дарит общему виду любого участка гармонию, которой так часто не хватает в повседневной жизни. Есть вариации змеевика более яркие, с фиолетовыми вкраплениями – для тех случаев, когда нужно добавить в участок немного динамики. Змеевик этим и уникален – он идеально подойдет для воплощения как ярких ландшафтных решений, так и более спокойных.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645495" available="true">
+				<url>https://regran.org/granit/granitnyj-plitnyak/kladochnyj-kamen-staryj-kenigsberg</url>
+				<price>5250.00</price>
+				<oldprice>6900.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645481</categoryId>
+				<picture>https://i.1.creatium.io/d1/78/25/1baca43a5a96015b14b7a88771cda2d55e/kladochniy_kamen_stariy_kenigsberg_9.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Кладочный камень ровный</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Кладочный камень</model>
+				<description>Кладочный камень – толстые гранитные плиты с ровным торцом и выдержанной толщиной, возрастом не менее 1–2 млн лет. Добывается без применения буровзрывных работ, что гарантирует отсутствие микротрещин и сохраняет проч- ность камня. Тщательно отобран и великолепно вписывается в окружающий ландшафт. Обладает ровным торцом, позволяя создать более ровную и безупречную кладку. Применяется для возведения подпорных стен, заборов, ограждений. В ландшафте особенно эффектно смотрятся выполненные него альпийские горки, декоративные бассейны, колонны, обрамление газонов. Из камня получаются неповторимые элементы ландшафтного дизайна, позволяющие создать ощущение единения с природой, таинства эпохи и умиротворения.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645493" available="true">
+				<url>https://regran.org/granit/landshaftnye-plity/landshaftnye-plity-anglijskij-sad</url>
+				<price>1300.00</price>
+				<oldprice>2300.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645490</categoryId>
+				<picture>https://i.1.creatium.io/84/bc/a1/df44192636972a2016c1618b75ea38ee95/landshaftnie_pliti_angliyskiy_sad_4.jpeg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Ландшафтные плиты большеформатные</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Ландшафтные плиты</model>
+				<description>Природные плиты из гранита для пошаговых дорожек и уникального стиля мощения. Изготовлены из природного камня, возраст которого не менее 1–2 млн лет. Объемные, масштабные, с большой площадью, естественными поверхностью и натуральными краями. Специально отбираются и сортируются, поставляются с небольшой обработкой (для удобства укладки) в виде природных плит «как есть», что усиливает эффект натуральности в создании пространств на стыке человека и природы.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645547" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/morskaya-galka-valunchik-seryj</url>
+				<price>35.00</price>
+				<oldprice>40.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/bd/53/51/f08a1569f1949e7b48e91fe8a189e16f42/morskaya_galka_valunchik_seriy.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Морская галька Валунчик серый</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Крошка декоративная</model>
+				<description>Имеет гладкую поверхность, благородный серо-синий цвет, хорошо подходит для сооружения альпийских горок и рокариев. Благодаря своим природным свойствам долговечен, морозостоек, возведенные с его применением композиции стоят десятилетиями. Один из самых экологически чистых материалов. Также валунчик используют и при возведении водных ландшафтов, водоемов, бассейнов и других ландшафтных объектов. Как вариант, им можно выложить чашу водоема, а можно обустроить дно, что также будет смотреться эффектно и красиво.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645518" available="true">
+				<url>https://regran.org/granit/bruschatka-granitnaya/parket-granitnyj-rigel-evro</url>
+				<price>3930.00</price>
+				<oldprice>4990.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645482</categoryId>
+				<picture>https://i.1.creatium.io/f7/9c/94/5ce74d72c8b3ad98a9afca7db9332d24a2/parket_granitniy_rigel_evro_8.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Паркет гранитный Ригель евро</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Брусчатка гранитная пиленая</model>
+				<description>Гранитные бруски стандартной длины с пятью ровными сторонами и природным верхом. В отличие от традиционной брусчатки, имеют удлиненную, ригельную форму 3:1 и более, что позволяет воплощать оригинальные и современные рисунки мощения при обустройстве покрытия. Цветовая гамма – нежная серо-бежевая с желтоватым оттенком. Благодаря теплым оттенкам и естественной текстуре Regran Мюнхен отлично гармонирует с растениями, практически с любым дорожным покрытием и материалами. Идеален для мощения территории вокруг дома, садовых дорожек, террас, патио, зон барбекю. Монтируется со швами не более 3 мм, что способствует комфортному передвижению как на роликах и самокатах, так и на высоких каблуках. Используется в различных стилях ландшафтного дизайна – от классического до модерна. Выполнен из природного камня возрастом не менее 1–2 млн лет.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645525" available="true">
+				<url>https://regran.org/granit/plitka-oblicovochnaya-granitnaya/plitka-oblicovochnaya-modern-3d</url>
+				<price>1050.00</price>
+				<oldprice>1210.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645489</categoryId>
+				<picture>https://i.1.creatium.io/56/cb/28/f7c09239d3815bef64ec2e6175defc438e/plitka_oblicovochnaya_modern_3d_1.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Плитка облицовочная гранитная</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитка облицовочная гранитная</model>
+				<description>Гранитная плитка для тех, кто не хочет использовать ригельную форму, но есть потребность сделать поверхность по-настоящему особенной. Несмотря на схожесть с ригелем, плитка имеет размеры произвольные длину и высоту, благодаря чему существенно от него отличается, при этом смотрится не менее эффектно. По отзывам ландшафтных дизайнеров и архитекторов, в некоторых случаях такое решение смотрится намного органичнее ригеля. С REGRAN Modern 3D становится возможным создание современных, не похожих на любой другой рисунков. А приятный, мягкий и благородный серо-бежевый цвет подойдет для воплощения почти любых дизайнерских решений на любых объектах.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645502" available="true">
+				<url>https://regran.org/kvarcit-zlatolit/plitka-oblicovochnaya-kvarcit/plitka-oblicovochnaya-rigel-multikolor-80-250-mm</url>
+				<price>2460.00</price>
+				<oldprice>2920.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645484</categoryId>
+				<picture>https://i.1.creatium.io/13/cd/0b/65bead3e064dc5bd0e6e336fb3df320d16/plitka_oblicovochnaya_rigel_multikolor_80_250.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Плитка облицовочная Ригель мультиколор</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитка облицовочная из кварцита</model>
+				<description>Плитка с ровными гранями и природной поверхностью из натурального камня кварцита, широко применяемого в строительстве, создании скульптур и декоративных украшений. Выполнена в соответствии с современными тенденциями и трендами в облицовке - имеет удлиненную, ригельную форму с соотношением сторон 3:1 и более. Правильный рисунок, геометрическая простота и богатая цветовая палитра сделают любую поверхность поистине уникальной и наполнят ее роскошным насыщенным цветом и невероятной фактурой. Идеально подойдет для внешней отделки, а также отделки жилых помещений, медицинских учреждений или детских садов, т. к. обладает антибактериальными свойствами. Обладает трехмерным эффектом, кристаллической структурой, богатой и благородной цветовой гаммой – цвет преимущественно искристо-серый с жёлтыми, коричневыми и зелёными оттенками.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645508" available="true">
+				<url>https://regran.org/kvarcit-zlatolit/plity-moshcheniya-kvarcit/plity-moshcheniya-san-marko-iz-kvarcita</url>
+				<price>3530.00</price>
+				<oldprice>3990.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645486</categoryId>
+				<picture>https://i.1.creatium.io/14/92/a4/fd32f924567f3315e1db8fa5ac94d9b5ec/pliti_mosheniya_san_marko.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Плиты мощения Старый замок</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плиты мощения из кварцита</model>
+				<description>Роскошный вариант с текстурированной природной поверхностью и распиленными краями. Произведены из кварцита возрастом более 3 млн лет, особые образцы которого применяются в ювелирной промышленности как полудрагоценный поделочный камень первого порядка. Богатая цветовая гамма камня с отблесками и особенностью менять оттенок в зависимости от освещения добавляет реальный вау-фактор любой площадке на открытом воздухе. Кристаллическая структура позволяет плитам искриться на солнце или при изменении углов искусственного освещения. Идеальный выбор для современных решений, а также если вы хотите создать открытое пространство с уникальным сочетанием зелени и мощения с пепельными, лазурными и рыжеватыми переливами. Идеально подходит для любых изысканных и традиционных участков, добавляя ландшафту уникальные штрихи.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645526" available="true">
+				<url>https://regran.org/granit/plitka-oblicovochnaya-granitnaya/uglovoj-ehlement-anglijskij-domik</url>
+				<price>3000.00</price>
+				<oldprice>4880.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645489</categoryId>
+				<picture>https://i.1.creatium.io/8d/85/42/264ffcb34d3dfbaaab4d29fe89881cfee1/uglovoy_element_angliyskiy_domik_2.jpeg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Угловой элемент из цельного гранита</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Угловой элемент</model>
+				<description>Угловой элемент сделан для того, чтобы вы не беспокоились как сделать углы при облицовке вашего фасада. Выполнен из цельного камня, что гарантирует шикарный внешний вид элемента и отсутствие расколов со временем. Может использоваться как для акцентирования отдельных элементов фасада, так и для отделки полностью всей высоты угла. Цвет универсальный – мягкий и благородный серо-бежевый, подойдет ко всем без исключения облицовочным изделиям REGRAN.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645530" available="true">
+				<url>https://regran.org/granit/bruschatka-granitnaya/bruschatka-granitnaya-ryaba-premium-100-L-ultra-red</url>
+				<price>10250.00</price>
+				<oldprice>12580.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645482</categoryId>
+				<picture>https://i.1.creatium.io/e8/55/0c/dd902966fc57db6f933fadb18951c37486/bruschatka_granitnaya_ryaba_ultra_red_1.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Брусчатка гранитная бордовая Ряба ультра ред</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Брусчатка гранитная галтованная</model>
+				<description>Уникальная брусчатка для настоящих ценителей сделает ваш участок не похожим ни на один другой. Принципиально отличающаяся от типовых и распространенных форм, брусчатка из знаменитого гранита Ряба премиум возраста 1–2 млн лет подвергается обжигу по авторской технологии. После чего значительно преображается, и кремово-серый цвет начинает играть новыми красками – от нежно-розового до алого красного. При повышенной влажности цвета становятся еще насыщеннее, при этом брусчатка не теряет своих эксплуатационных свойств – все так же противодействует скольжению и пригодна для использования даже в самом суровом климате. Оригинальный рисунок, который получается из-за разных по длине, но одинаковых по высоте брусков, создает шикарный и стилистически законченный узор, который производит неизгладимое впечатление и никого не оставляет равнодушным.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645527" available="true">
+				<url>https://regran.org/granit/bruschatka-granitnaya/bruschatka-granitnaya-ryaba-ehkonom</url>
+				<price>1300.00</price>
+				<oldprice>1850.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645482</categoryId>
+				<picture>https://i.1.creatium.io/d8/80/07/0c50ca35df434ed86040e8c5ae7121341d/bruschatka_granitnaya_ryaba_ekonom_5.jpeg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Брусчатка гранитная Ряба эконом микс</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Брусчатка гранитная галтованная</model>
+				<description>Бруски с неровными гранями и скругленными краями. Эффект достигается благодаря процессу состаривания пиленой брусчатки на несколько веков. Обладает нестандартной и произвольной формой, предназначена для создания граней, изгибов и закруглений при мощении дорожек, площадей и подъездов.  Позволит сократить затраты на мощение при мощении задних дворов, подвальных помещений, второстепенных дорожек. Обладает шикарным внешним видом, эстетично и оригинально выглядит в уложенном виде. Этому способствует уникальный нежный серо-бежевый цвет с желтоватым оттенком. Благодаря скругленным краям снижается вероятность любых повреждений. Подходит практически ко всем стилевым решениям. Изготовлена из природного камня, возраст которого не менее 1–2 млн лет.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645521" available="true">
+				<url>https://regran.org/granit/bruschatka-granitnaya/bordyur-granitnyj-regran-premium</url>
+				<price>590.00</price>
+				<oldprice>680.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645482</categoryId>
+				<picture>https://i.1.creatium.io/12/87/7f/10d3374d2537d0caf9afc4519dd221182f/bordyur_granitniy_regran_premium_1.png</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<delivery-options>
+					<option cost="0" days="2-4"/>
+				</delivery-options>
+				<name>Бордюр гранитный Регран премиум</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Бордюр</model>
+				<description>Неотъемлемая часть привлекательных и аккуратных ландшафтов, садов, скверов, коммерческих пространств. С гранитными бордюрами любые пространства будут смотреться поистине насыщенно и благородно. Служат для отсечения проезжей части от пешеходных дорожек, обозначения границы между тротуарами и пешеходными дорожками в садово-парковых зонах и многих других пространствах. Благодаря бордюрам тропинки и дорожки останутся аккуратными, не «размоются» под действием дождя, снега, града, а земля с газонов не попадет на пешеходное пространство или дорожное полотно. Изготавливаются из природного камня возрастом не менее 1–2 млн лет.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645510" available="true">
+				<url>https://regran.org/granit/bruschatka-granitnaya/bruschatka-granitnaya-glavnaya-ploshchad-100-100-200-200-100-200-mm</url>
+				<price>26250.00</price>
+				<oldprice>2940.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645482</categoryId>
+				<picture>https://i.1.creatium.io/d8/53/7b/0b80edaf1b96aa087771cc6bbe158257a8/bruschatka_granitnaya_glavnaya_ploshad_8.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Брусчатка гранитная пиленая</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Брусчатка пиленая</model>
+				<description>Бруски с ровными гранями по периметру, верх и низ природный. Такое сочетание и обработка позволяет передать естественную структуру камня, показать природную уникальность и шероховатость. Благодаря ровным граням по периметру отсутствуют стыки между брусками и получается практически ровная поверхность, которая обладает антискользящими свойствами. Благодаря бесшовной укладке снижается вероятность любых зацепов за грани брусков и застревания любых предметов, например каблуков. Обладает повышенным комфортом при проезде детских колясок и любого вида транспорта. Изготовлена из природного кам- ня, возраст которого не менее 1–2 млн лет.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645512" available="true">
+				<url>https://regran.org/granit/bruschatka-granitnaya/bruschatka-granitnaya-ryaba-premium-100-100-100-200-200-200-mm</url>
+				<price>2625.00</price>
+				<oldprice>2940.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645482</categoryId>
+				<picture>https://i.1.creatium.io/86/20/aa/2d4d4d9ffece977bf1b076d1edb6cf502a/bruschatka_granitnaya_ryaba_premium_13.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Брусчатка гранитная галтованная Ряба премиум</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Брусчатка гранитная галтованная</model>
+				<description>Бруски с ровными гранями и скругленными краями. Эффект достигается благодаря процессу состаривания пиленой брусчатки на несколько веков. Обладает шикарным внешним видом, эстетично и оригинально выглядит в уложенном виде. Этому способствует уникальный нежный серо-бежевый цвет с желтоватым оттенком. Благодаря скругленным краям снижается вероятность любых повреждений для взрослых и детей. Эффективно противостоит скольжению при обледенении в зимнее время. Подходит практически ко всем стилевым решениям. Изготовлена из природного камня, возраст которого не менее 1–2 млн лет.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645516" available="true">
+				<url>https://regran.org/kvarcit-zlatolit/bruschatka-iz-kvarcita/bruschatka-iz-kvarcita-veneciya-mozaika</url>
+				<price>26250.00</price>
+				<oldprice>2920.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645485</categoryId>
+				<picture>https://i.1.creatium.io/a9/80/5a/4902d53cd91abe14552c931d3c7ef925e9/bruschatka_iz_kvarcita_veneciya_mozaika_1.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Брусчатка из кварцита галтованная мозаика</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Брусчатка из кварцита галтованная</model>
+				<description>Брусчатка разных размеров для создания чарующего рисунка и неповторимого мощения. Грани ровные, скругленные и состаренные края. Выполнена из натурального камня кварцита, широко применяемого в строительстве, создании скульптур и декоративных украшений. Не имеет аналогов на российском рынке. В результате специальной обработки и состаривания приобретает вид и форму тесаного камня, произведенного несколько веков назад. Имеет богатую и уникальную цветовую гамму мультиколор: цвет преимущественно искристо-серый с жёлтыми, синеватыми, коричневыми и зелёными оттенками. Прекрасно смотрится как с дополнительной обработкой, так и без.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645533" available="true">
+				<url>https://regran.org/granit/bruschatka-granitnaya/granitnaya-bruschatka-yuzhno-sultaevskaya</url>
+				<price>3000.00</price>
+				<oldprice>3310.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645482</categoryId>
+				<picture>https://i.1.creatium.io/31/ed/2f/4793e97e05fb57983eca5ea54d04f97c71/sultay.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Брусчатка кремово-каштановая Южно-Султаевская</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Брусчатка гранитная Южно-Султаевская</model>
+				<description>Природный гранит c крупнозернистой структурой – один из самых популярных и востребованных материалов для мощения в случаях, когда стоит задача реализовать яркие и оригинальные задумки. Основной тон – кремово-каштановый со светлыми и темными включениями. Может иметь несколько видов обработки: полированный становится более контрастным и гладким, демонстрируя сочный и насыщенный цвет. Будучи термообработанным, приобретает нежно-розовые оттенки и шероховатую поверхность, не давая поскользнуться в дождь и гололед. При укладке образует идеальную ровную поверхность без зазоров. Как любой другой гранит, имеет лучшие характеристики в плане истираемости и устойчивости к влаге и реагентам. Успешно сопротивляется воздействию любых агрессивных веществ. Полностью соответствует допускам ГОСТ 32018-2012.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645534" available="true">
+				<url>https://regran.org/granit/bruschatka-granitnaya/granitnaya-bruschatka-mansurovskaya</url>
+				<price>3000.00</price>
+				<oldprice>3210.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645482</categoryId>
+				<picture>https://i.1.creatium.io/97/d1/01/619ad250d26d9622e7848fbce5136ff735/mansur.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Брусчатка мраморно-серая Мансуровская</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Брусчатка гранитная Мансуровская</model>
+				<description>Элитный гранит, имеет самую светлую расцветку из всех гранитов, что добываются в России и приятную мелкозернистую структуру. Цвет – практически белый или мраморно-серый с мелкими темными вкраплениями. Основной оттенок зависит от вида обработки: полировка придаёт граниту слегка зеленоватый цвет, точечная обработка – белый, термообработка – строгий светло-серый. Помимо очевидных эстетических характеристик, этот сорт стойко переносит перепады температур и высокую влажность. Декоративные свойства обеспечивают его сочетаемость со всеми другими строительными и отделочными материалами. Многие любят этот сорт за презентабельность и способность органично вписаться в любой ландшафт. Активно используется для мощения как внутри, так и снаружи загородных домов, клубных таунхаусов, жилых и нежилых пространств различных назначений.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645496" available="true">
+				<url>https://regran.org/granit/granitnyj-plitnyak/kladochnyj-kamen-shale</url>
+				<price>2890.00</price>
+				<oldprice>3580.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645481</categoryId>
+				<picture>https://i.1.creatium.io/4e/18/1c/e7c31bc49131002622d11896958d350030/kladochniy_kamen_shale_8.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Кладочный камень на палетах</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Кладочный камень</model>
+				<description>Кладочный камень или постелистый бут – толстые гранитные плиты с необработанными краями возрастом не менее 1–2 млн лет. Добывается исключительно вручную, а бережное отношение к его поверхности позволяет сохранять его неповторимость и художественную ценность. Имеет широкий спектр применения, среди которых инженерные сооружения, такие как подпорные стенки, заборы и различные ограждающие конструкции. В ландшафте особенно эффектно смотрятся выполненные него альпийские горки, декоративные бассейны, фонтаны, колонны, габионы, обрамление для цветников и газонов. Идеален для создания отдельных ландшафтных элементов – скамеек, столов и лестниц и прекрасно сочетается с любыми другими материалами.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645543" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/morskaya-galka-kaspijskaya</url>
+				<price>35.00</price>
+				<oldprice>40.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/43/11/c2/155bac7a4f63e35409498b174b29f1fc4c/kaspiyskaya_morskaya_galka.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Морская галька Каспийская</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Крошка декоративная</model>
+				<description>Морская галька из теплого Каспийского моря – мелкие природные камни, окатанные в разной степени, диаметром от одного до 15 сантиметров. Образуется естественным образом в течение десятков и сотен лет: остроугольные обломки горных пород соударяются между собой под воздействием волн прибоя. Её блеск и приятная гладкая поверхность добавит декору вашего участка частичку морского настроения. Галька будет выгодно смотреться везде: станет заметным элементом вашего декора, а если потребуется – органичным дополнением любых ландшафтных элементов.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645544" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/morskaya-galka-kaspijskaya-goryanka</url>
+				<price>35.00</price>
+				<oldprice>40.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/93/38/0a/3ccac0ef7e4f0b46efbb7f06ff036b22d1/kaspiyskaya_morskaya_galka_goryanka_raznocvetnaya.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Морская галька Каспийская горянка</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Крошка декоративная</model>
+				<description>Имеет приятную, округлую форму и спокойные пастельные тона, благодаря которым станет стильным штрихом в интерьере и экстерьере любого объекта. Именно поэтому она из года в год становятся частым выбором при декорировании частных участков, наполнения клумб и габионов. Обладает яркими цветами, приятной стоимостью, быстро очищается. Устойчива к перепадам температур, служат долгие годы, для очищения достаточно просто промыть. Отличный выбор для создания уютной атмосферы вашего участка.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645551" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/mramornaya-kroshka</url>
+				<price>35.00</price>
+				<oldprice>40.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/46/c5/0d/a73a3ab015febae51273169d8c83ea5659/mramornaya_kroshka.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Мраморная крошка Декоративная</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Крошка декоративная</model>
+				<description>Мраморная крошка в ландшафтном дизайне используется на протяжении многих столетий и ценится за высокие декоративные свойства. Даже сегодня, когда новые синтетические материалы заполонили рынок, она нисколько не потеряла актуальность. Абсолютно безвредна для растительности и окружающей среды, прочна, не боится перепадов температур и влажности, не вступает в реакцию с реагентами. По праву считается очень красивым типом покрытия. При помощи мраморной крошки вы сможете, даже без знания хитростей ландшафтного дизайна, создать разнообразные формы, с которыми ваш участок станет уникальным.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645523" available="true">
+				<url>https://regran.org/granit/plitka-oblicovochnaya-granitnaya/plitka-oblicovochnaya-evro-rigel</url>
+				<price>2500.00</price>
+				<oldprice>2880.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645489</categoryId>
+				<picture>https://i.1.creatium.io/65/47/a4/1e3d37cc2b1d3e8242e3368e5060b59b80/plitka_oblicovochnaya_evro_rigel_1.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Плитка облицовочная Евро ригель</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитка облицовочная гранитная</model>
+				<description>Гранитная плитка ригельной формы, с соотношением сторон 3:1. Благодаря сочетанию ровных торцевых краев, природной лицевой поверхности и самой популярной и узнаваемой форме, широко используется на многих современных и премиальных объектах. Дает возможность создавать правильные геометрические узоры и множество рисунков для настоящих перфекционистов, благодаря чему каждый объект, на котором она используется, приобретает уникальность и неповторимость. Знаменитые на всю страну цвет и зернистость идеально подойдут для воплощения дизайнерских задумок при создании строгих и современных фасадов. Цвет – мягкий, глубокий, богатый и благородный серо-бежевый.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645553" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/felzit</url>
+				<price>35.00</price>
+				<oldprice>40.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/48/e5/45/45fc930b701c63770059f0be50773dafe8/felzit.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Фельзит Магматический</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Крошка декоративная</model>
+				<description>Камень, не похожий на «стандарт». Способен изменять тон в зависимости от освещенности, благодаря чему оригинально смотрится как дополнение любого дизайна участков и клумб. На его поверхности – хаотичная гармония из желтых, черных и красных вкраплений, образующаяся благодаря богатому минеральному составу. Даже экстремальные климатические условия не смогут оказать на него воздействие: он стоек к морозам, осадкам, агрессивным средам и перепадам температур. Идеален для изготовления ландшафтных элементов, украшения клумб, водоемов, отсыпки площадок, дорожек, наполнения габионов.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645542" available="true">
+				<url>https://regran.org/landshaftnyj-kamen/kamen-dlya-uchastka/yashma-kroshka</url>
+				<price>35.00</price>
+				<oldprice>40.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645491</categoryId>
+				<picture>https://i.1.creatium.io/e7/c4/d8/cc7dad96683aab69ac42bd504472f398a3/kroshka_yashma.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Яшма Крошка декоративная</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Крошка декоративная</model>
+				<description>Насыщенный малиновый цвет различных оттенков, многочисленные колотые края, мелкая кристаллическая структура, искристость на солнце – вот что подарит вашему участку настоящую красоту. Используется профессионалами ландшафтного дизайна на протяжении многих лет и практически во всех ландшафтных элементах – при отсыпке дорожек до беседки, в оформлении и придании форм клумбам, в украшении кустарников и деревьев. Яшма в любом месте будет к месту, создавая шикарный вид и вызывая восторг ваших гостей.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645507" available="true">
+				<url>https://regran.org/kvarcit-zlatolit/plitka-oblicovochnaya-kvarcit/plitka-oblicovochnaya-florenciya</url>
+				<price>2850.00</price>
+				<oldprice>4300.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645484</categoryId>
+				<picture>https://i.1.creatium.io/b1/08/b0/47852471ea5195cd92a0cee746cc540179/plitka_oblicovochnaya_florenciya_2.jpeg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Плитка облицовочная Старый замок с заколом</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитка облицовочная из кварцита</model>
+				<description>Плитка с пятью ровными гранями и лицевой объемной гранью со сколами (скошенными краями), имитирующими скалу. Произвольная длина позволяет создавать уникальные ассиметричные рисунки, умело выделяя нужное пространство. Выполнена из кварцита, широко применяемого в строительстве. Каждая плитка – уникальное изделие ручной работы, которое проходит путь длиной в 15 часов – от скалы до готового изделия. Облицовка стен, фасадов и заборов плиткой Regran Florence придаст интерьеру или ландшафту особый шарм, обеспечивая эффект искристости. Одна из самых экологичных – плитка полностью соответствует нормам НРБ-99, имеет доказанный абсорбирующий и антибактериальный эффект.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+			</offer>
+			<offer id="3645506" available="true">
+				<url>https://regran.org/kvarcit-zlatolit/plitka-oblicovochnaya-kvarcit/plitka-oblicovochnaya-florenciya-rigel-3d</url>
+				<price>2850.00</price>
+				<oldprice>3650.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645484</categoryId>
+				<picture>https://i.1.creatium.io/64/3d/e3/6a52b5b5a80db9942953c9e37df1b9e7a0/plitka_oblicovochnaya_florenciya_rigel_3d_1.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Плитка облицовочная ригель 3D</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитка облицовочная из кварцита</model>
+				<description>Плитка с пятью ровными гранями и лицевой объемной гранью со сколами (скошенными краями), имитирующими скалу. Имеют удлиненную, ригельную форму с соотношением сторон 3:1 и более, что позволяет воплощать оригинальные и современные рисунки облицовки в европейском стиле. Выполнена из кварцита, широко применяемого в строительстве. Каждая плитка – уникальное изделие ручной работы, которое проходит путь длиной в 15 часов – от скалы до готового изделия. Облицовка стен, фасадов и заборов плиткой Regran Rigel Florence 3D придаст интерьеру или ландшафту особый шарм, обеспечивая эффект искристости. Одна из самых экологичных – плитка полностью соответствует нормам НРБ-99, имеет доказанный абсорбирующий и антибактериальный эффект.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645497" available="true">
+				<url>https://regran.org/granit/granitnyj-plitnyak/granitnyj-plitnyak-avstrijskoe-patio</url>
+				<price>990.00</price>
+				<oldprice>1440.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645481</categoryId>
+				<picture>https://i.1.creatium.io/b7/19/bd/078028a798520facc2095a89a6f1571aea/granitniy_plitnyak_avstriyskoe_patio_1.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Гранитный плитняк галтованный</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитняк гранитный</model>
+				<description>Гранитные плиты произвольной формы с округлыми краями, средний размер плиты – с альбомный лист. Возраст любой из плит не менее 1–2 млн лет. По сравнению с обычным плитняком, обладает более ровными и гладкими поверхностями. Это достигается благодаря дополнительной обработке – состариванию отборного плитчатого камня, при которых удаляются все отслоения и слабые места. После обработки получается античный природный камень оригинальной формы, готовый к применению в проектах, где необходимо выполнить дорожки как в пригороде европейских городов или облицовку, напоминающую замок средневековья.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645524" available="true">
+				<url>https://regran.org/granit/plitka-oblicovochnaya-granitnaya/plitka-oblicovochnaya-provans-3d</url>
+				<price>650.00</price>
+				<oldprice>750.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645489</categoryId>
+				<picture>https://i.1.creatium.io/98/32/b8/0154e4f53eee348a68c54b3ee87e7af63c/plitka_oblicovochnaya_provans_3d_3.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Плитка облицовочная дичка</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Плитка облицовочная гранитная</model>
+				<description>Среднеформатный облицовочный материал с трехмерным эффектом, из которого получаются внушительные, благородные и впечатляющие фасады. Изготовлен из природного камня возраста не менее 1–2 млн лет. Имеет произвольные длину и высоту, природную фактуру, которую не сможет имитировать ни один другой способ отделки. При установке в каждом случае получается неповторимый абстрактный рисунок, трехмерный эффект которого можно видеть, находясь в любом месте обозрения. Позволяет создавать самые необычные комбинации и вариации облицовки фасадов. В первую очередь подходит для внешней отделки фасадов зданий, заборов, каминов, реже для облицовки элементов интерьера. При дополнительной обработке и нанесении пропиток кардинально меняет внешний вид, что, как вариант, позволит по истечении некоторого времени без особых затрат создать ощущение абсолютно нового фасада.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="3645513" available="true">
+				<url>https://regran.org/granit/bruschatka-granitnaya/bruschatka-granitnaya-ryaba-premium-100-L</url>
+				<price>3530.00</price>
+				<oldprice>3910.00</oldprice>
+				<currencyId>RUB</currencyId>
+				<categoryId>3645482</categoryId>
+				<picture>https://i.1.creatium.io/b5/1d/3f/2333922f54caad9833aee8784107602578/bruschatka_granitnaya_ryaba_premium_l_1.jpg</picture>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<name>Брусчатка гранитная Ряба премиум</name>
+				<vendor>РЕГРАН</vendor>
+				<model>Брусчатка гранитная галтованная</model>
+				<description>Для тех, кто устал от универсальности и хочет сделть принципиально отличающийся ландшафт. Бруски с ровными гранями и скругленными краями различного размера создадут оригинальный рисунок, не похожий на то, что вы выдели раньше. Различный размер создаст шикарный и стилистически законченный узор, который в уложенном виде будет производить неизгладимое впечатление на ваших гостей. Вкупе с уникальным нежным серо-бежевым оттенком. Так же, благодаря скругленным краям снижается вероятность любых повреждений для взрослых и детей. Подходит почти для всех стилевых решений. Изготовлена из природного камня, возраст которого не менее 1–2 млн лет.</description>
+				<sales_notes>Оплата: Наличные, Б/Н, пластиковые карты</sales_notes>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<seller_warranty>true</seller_warranty>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
